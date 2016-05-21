@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1463806594 source:/home/spacedust/Documents/Jamchester/Jamchester2016/main.cpp
+	<SFML/Graphics.hpp>
+	"include/game.h"
+
+1463811842 /home/spacedust/Documents/Jamchester/Jamchester2016/include/game.h
+	"Monster.h"
+	"Player.h"
+	"Portal.h"
+	<stdint.h>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1463806654 /home/spacedust/Documents/Jamchester/Jamchester2016/include/Monster.h
+	<stdint.h>
+
+1463806676 /home/spacedust/Documents/Jamchester/Jamchester2016/include/Player.h
+	<stdint.h>
+
+1463809974 /home/spacedust/Documents/Jamchester/Jamchester2016/include/Portal.h
+	<stdint.h>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1463811312 source:/home/spacedust/Documents/Jamchester/Jamchester2016/src/game.cpp
+	"../include/game.h"
+
+1463807920 source:/home/spacedust/Documents/Jamchester/Jamchester2016/src/Monster.cpp
+	"../include/Monster.h"
+
+1463806082 source:/home/spacedust/Documents/Jamchester/Jamchester2016/src/Player.cpp
+	"../include/Player.h"
+
+1463812041 source:/home/spacedust/Documents/Jamchester/Jamchester2016/src/Portal.cpp
+	"../include/Portal.h"
+
